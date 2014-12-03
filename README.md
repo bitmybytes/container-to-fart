@@ -1,15 +1,15 @@
-Container-to-Cat-Herder
+Container-to-Fart
 =============
 
-Chrome extension that replaces occurrences of 'container' with 'cat herder'
+Chrome extension that replaces occurrences of 'container' with 'fart'
 
 A fork of [Cloud-to-Butt](https://github.com/panicsteve/cloud-to-butt/)
 
-[Direct download of crx file](https://github.com/jakerobinson/container-to-cat-herder/blob/master/ContainerToCatHerder.crx?raw=true)
+[Direct download of crx file](https://github.com/jakerobinson/container-to-fart/blob/master/ContainerToFart.crx?raw=true)
 
 
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag ContainerToCatHerder.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag ContainerToFart.crx into the page that appears.
 
