@@ -33,7 +33,7 @@ function handleText(textNode)
 
 	v = v.replace(/\bContainer\b/g, "Fart");
 	v = v.replace(/\bcontainer\b/g, "fart");
-	v = v.replace(/\bCONTAINER\b/g, "fart");
+	v = v.replace(/\bCONTAINER\b/g, "FART");
 	v = v.replace(/\bContainers\b/g, "Farts");
 	v = v.replace(/\bcontainers\b/g, "farts");
 	
